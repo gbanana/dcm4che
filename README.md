@@ -1,5 +1,7 @@
 dcm4che-3.x DICOM Toolkit
 =========================
+
+[![Join the chat at https://gitter.im/gbanana/dcm4che](https://badges.gitter.im/gbanana/dcm4che.svg)](https://gitter.im/gbanana/dcm4che?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Sources: https://github.com/dcm4che/dcm4che  
 Binaries: https://sourceforge.net/projects/dcm4che/files/dcm4che3  
 Issue Tracker: http://www.dcm4che.org/jira/browse/LIB  
